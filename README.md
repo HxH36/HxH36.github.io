@@ -1,5 +1,3 @@
-# HxH36.github.io
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -1290,6 +1288,9 @@
               <!-- Desktop -->
 <img class="stream" src="http://localhost:8000/video" alt="Robot Live Stream" />
 
+<!-- Mobile -->
+<img src="http://localhost:8000/video" alt="Robot Live Stream Mobile">
+
             </div>
 
             <div class="camera-overlay">
@@ -1487,6 +1488,9 @@
         <div class="mobile-video">
           <!-- Desktop -->
 <img class="stream" src="http://localhost:8000/video" alt="Robot Live Stream" />
+
+<!-- Mobile -->
+<img src="http://localhost:8000/video" alt="Robot Live Stream Mobile">
 
 
         </div>
